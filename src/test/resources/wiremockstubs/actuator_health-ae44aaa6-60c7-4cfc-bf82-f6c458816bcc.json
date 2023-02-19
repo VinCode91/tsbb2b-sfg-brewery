@@ -1,0 +1,20 @@
+{
+  "id" : "ae44aaa6-60c7-4cfc-bf82-f6c458816bcc",
+  "name" : "actuator_health",
+  "request" : {
+    "url" : "/actuator/health",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"status\":\"UP\"}",
+    "headers" : {
+      "Content-Type" : "application/vnd.spring-boot.actuator.v3+json",
+      "Date" : "Sun, 19 Feb 2023 10:10:51 GMT",
+      "Keep-Alive" : "timeout=60"
+    }
+  },
+  "uuid" : "ae44aaa6-60c7-4cfc-bf82-f6c458816bcc",
+  "persistent" : true,
+  "insertionIndex" : 2
+}
