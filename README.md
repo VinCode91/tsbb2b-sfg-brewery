@@ -17,3 +17,8 @@ For questions and help:
 * Or post in the Slack Community exclusive to the course.
 
 GitHub Issues will not be addressed.
+
+## Useful links
+* JsonPath : https://github.com/json-path/JsonPath
+  * JsonPath expressions test url : https://jsonpath.com/
+  * for testing with Spring MVC, jsonPath is used in combination with hamcrest matchers

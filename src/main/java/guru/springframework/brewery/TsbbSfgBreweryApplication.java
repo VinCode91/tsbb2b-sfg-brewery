@@ -1,4 +1,4 @@
-package guru.springframework.brewery.tsbbsfgbrewery;
+package guru.springframework.brewery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
